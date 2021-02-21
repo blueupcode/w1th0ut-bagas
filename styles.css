@@ -1,3 +1,6 @@
+html, body {
+  	min-height: 100%;	
+}
 #e0_3 { 
 	overflow:hidden;
 	background-color:rgba(255, 255, 255, 1);
