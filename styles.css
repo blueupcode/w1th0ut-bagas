@@ -1,5 +1,6 @@
-html, body {
-  	min-height: 100%;	
+body {
+  	padding: 0;
+	margin: 0;	
 }
 #e0_3 { 
 	overflow:hidden;
